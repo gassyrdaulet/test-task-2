@@ -1,0 +1,28 @@
+{
+	"info": {
+		"_postman_id": "f06da22e-0c72-43d8-94c1-909cdc4c6cc3",
+		"name": "test-task-2",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "21951791"
+	},
+	"item": [
+		{
+			"name": "Get Zones",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:4000/zones",
+					"host": [
+						"localhost"
+					],
+					"port": "4000",
+					"path": [
+						"zones"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
