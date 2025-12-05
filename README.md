@@ -19,6 +19,8 @@
 6. Swagger UI: http://localhost:4000/docs
 
 ## Примеры запросов (cURL)
+- В проекте есть файл коллекции запросов для Postman: test-task-2.postman_collection.json
+
 - Список контейнеров:
   curl http://localhost:4000/containers
 
